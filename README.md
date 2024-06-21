@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <br>
-👋 Hi, myself Shuvo Barua an undergraduate student of Computer Science & Engineering .<br>👀 I’m a problem solver in different online judge like (codeforces,codechef...).<br>✨Beside problem solving i am learning web development.<br>🎨 I can build website with front-end & back-end knowledge.<br>
+👋 Hi, myself Shuvo Barua an undergraduate student of Computer Science & Engineering .<br>👀 I’m a problem solver in different online judges like (codeforces,codechef...).<br>✨Beside problem solving i am learning web development.<br>🎨 I can build website with front-end & back-end knowledge.<br>
 
 # 💡 Problem Solving:
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Bshuvo)
