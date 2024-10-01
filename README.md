@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coder GIF" width="300" height="200" border-radius = "5"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coder GIF" width="300" height="200" border-radius ="5%"></a>
 </p>
 <br>
 
